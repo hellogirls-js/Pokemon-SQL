@@ -37,7 +37,10 @@ Good luck!
 
 
 
--- Build on top of this query to return the type(s) with the most weaknesses.
+-- Build on top this query to return the types with the most and least weaknesses.
 
+
+
+-- Grab the weaknesses and resistances for a Grass/Fighting type Pokemon including the damage multipliers
 
 
